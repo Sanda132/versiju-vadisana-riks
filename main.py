@@ -1,0 +1,1 @@
+print("Labdien visem kas šeit atrodas!")
